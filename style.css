@@ -2,7 +2,7 @@ img {float:left;margin-left: 25px; width: 50%;}
 div.heading {margin: auto; width: 90%; padding: 10px; text-align: center;}
 div.intro{ margin-left: 25px;padding: 5px;
 }
-
+p{margin-right: auto;}
 div.eqint { margin-left: 25px; padding: 5px;}
 div.natbrk {margin-left: 25px; padding: 5px;}
 div.qtl{margin-left: 25px; margin-bottom: 90px; padding: 5px;}
