@@ -1,4 +1,4 @@
-img {display: block; width: 50%;}
+img {float:left;margin-left: 25px; width: 50%;}
 div.heading {margin: auto; width: 90%; padding: 10px; text-align: center;}
 div.intro{ margin-left: 25px;padding: 5px;
 }
