@@ -1,6 +1,6 @@
-img.equint {display: block;margin-left: 25px; margin-right: auto;width: 50%;}
-img.natbrk {display: block;margin-left: 25px; margin-right: auto;width: 50%;}
-img.qtl {display: block;margin-left: 25px; margin-right: auto;width: 50%;}
+img.equint {display: block; margin-left: 25px; margin-right: auto; max-width: 50%; height: auto;}
+img.natbrk {display: block; margin-left: 25px; margin-right: auto; max-width: 50%; height: auto;}
+img.qtl {display: block; margin-left: 25px; margin-right: auto; max-width: 50%; height: auto;}
 div.heading {margin: auto; width: 90%; padding: 10px; text-align: center;}
 div.intro{ margin-left: 25px;padding: 5px;
 }
