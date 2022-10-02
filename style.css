@@ -1,4 +1,6 @@
-img {margin-left: 25px; width: 50%;}
+img.equint {float: left; margin-left: 25px; width: 50%;}
+img.natbrk {float: left; margin-left: 25px; width: 50%;}
+img.qtl {float: left; margin-left: 25px; width: 50%;}
 div.heading {margin: auto; width: 90%; padding: 10px; text-align: center;}
 div.intro{ margin-left: 25px;padding: 5px;
 }
