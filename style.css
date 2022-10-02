@@ -1,6 +1,5 @@
-img.equint { max-width: 50%; height: auto;}
-img.natbrk { max-width: 50%; height: auto;}
-img.qtl { max-width: 50%; height: auto;}
+img { max-width: 50%; height: auto;}
+
 div.heading {margin: auto; width: 90%; padding: 10px; text-align: center;}
 div.intro{ margin-left: 25px;padding: 5px;
 }
